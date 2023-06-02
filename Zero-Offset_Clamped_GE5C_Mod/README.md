@@ -1,5 +1,5 @@
 Zero offset GE5C/EGLM-05 Mod for your v2.4. Rididly mounted with 0 sliding  
-I did my best to optimize it so even non perfect tuned printers should get it working which was a problem on my previous versions.
+I did my best to optimize it so even non perfect tuned printers should get it working which was a problem on my previous versions.  
 Use the screws for clamping untill everything is tight, it shouldn't be bottomed out. If you use EGLM-05 you can feel if you have tightened it too much because it starts to bind.
 
 BOM:  
