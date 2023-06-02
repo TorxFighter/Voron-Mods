@@ -8,9 +8,9 @@ BOM:
 16x M3x20 SHCS  
 12x M3x16 SHCS  
 12x Heat inserts  
-6x M3x6 BHCS (SHCS can be used)  
-6x M3 Hex nut  
-
+8x M3x6 BHCS (SHCS can be used)  
+8x M3 Hex nut  
+(Optional) 4x 5mm ID 8mm OD 4mm tall Aluminum spacers instead of printed
 
 
 ![Udklip2](https://github.com/TorxFighter/Voron-Mods/assets/58269052/e9b537e6-c038-431b-886f-ccd1ea9e8e4a)
