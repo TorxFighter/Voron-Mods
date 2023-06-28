@@ -14,7 +14,11 @@ BOM:
 8x M3 Hex nut  
 (Optional) 4x 5mm ID 8mm OD 4mm tall Aluminum spacers instead of printed  
 
-
-![Udklip2](https://github.com/TorxFighter/Voron-Mods/assets/58269052/e9b537e6-c038-431b-886f-ccd1ea9e8e4a)
-![Udklip3](https://github.com/TorxFighter/Voron-Mods/assets/58269052/eea95f11-9604-4ab8-b40c-991dae819881)
-![Udklip](https://github.com/TorxFighter/Voron-Mods/assets/58269052/6252fbee-5b82-464d-9237-96e4dc4485ad)
+<p float="left">
+  <img src="https://github.com/TorxFighter/Voron-Mods/assets/58269052/e9b537e6-c038-431b-886f-ccd1ea9e8e4a" width="49%" />
+  <img src="https://github.com/TorxFighter/Voron-Mods/assets/58269052/6252fbee-5b82-464d-9237-96e4dc4485ad" width="49%" />
+</p>
+<p float="left">
+  <img src="https://github.com/TorxFighter/Voron-Mods/assets/58269052/221aad4e-c473-43e2-879a-5c6819968732" width="49%" />
+  <img src="https://github.com/TorxFighter/Voron-Mods/assets/58269052/eea95f11-9604-4ab8-b40c-991dae819881" width="49%" />
+</p>
