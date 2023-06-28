@@ -3,7 +3,7 @@ I did my best to optimize it so even non perfect tuned printers should get it wo
 Use the screws for clamping untill everything is tight, it shouldn't be bottomed out. If you use EGLM-05 you can feel if you have tightened it too much because it starts to bind.
 
 BOM:  
-4X GE5C/EGLM-05
+4X GE5C/EGLM-05  
 4X M5x10 1mm Shim
 4x M5x25 SHCS  
 4x M3x12  
