@@ -1,9 +1,9 @@
-![image (5)](https://github.com/TorxFighter/Voron-Mods/assets/58269052/935838c9-49b3-4320-8220-175b40734d75)
+![](Images/NotSoCreativeIMG.png)  
 Zero offset GE5C/EGLM-05 Mod for your v2.4.  
 I did my best to optimize it so even non perfect tuned printers should get it working which was a problem on my previous versions.  
 
 ## Why choose this mod?  
-- Unlike Hartk's Ge5C Mod. This has no offset mounting to the A/B drives or front idlers meaning its a direct replacement to stock ( even though you can make Hartk's version fit )
+- Unlike Hartk's Ge5C Mod. This has no offset mounting to the A/B drives or front idlers meaning its a direct replacement to stock ( even though you can make Hartk's version fit on stock v2.4)
 - No possiblity of the bearing sliding around, its locked rigidly in place with adjustability in case  the plastic creeps over time
 - Looks cool :)  
 
@@ -26,10 +26,10 @@ If you use EGLM-05 you can feel if you have tightened it too much because it sta
 
 Thank you NyxCode, jovdvyver, NotSoCreative and ReXT3D for Early testing and feedback!.
 <p float="left">
-  <img src="https://github.com/TorxFighter/Voron-Mods/assets/58269052/e9b537e6-c038-431b-886f-ccd1ea9e8e4a" width="49%" />
-  <img src="https://github.com/TorxFighter/Voron-Mods/assets/58269052/6252fbee-5b82-464d-9237-96e4dc4485ad" width="49%" />
+  <img src="Images/242970456-e9b537e6-c038-431b-886f-ccd1ea9e8e4a.jpg" width="49%" />
+  <img src="Images/242970460-6252fbee-5b82-464d-9237-96e4dc4485ad.jpg" width="49%" />
 </p>
 <p float="left">
-  <img src="https://github.com/TorxFighter/Voron-Mods/assets/58269052/221aad4e-c473-43e2-879a-5c6819968732" width="49%" />
-  <img src="https://github.com/TorxFighter/Voron-Mods/assets/58269052/eea95f11-9604-4ab8-b40c-991dae819881" width="49%" />
+  <img src="Images/249562216-221aad4e-c473-43e2-879a-5c6819968732.jpg" width="49%" />
+  <img src="Images/242970458-eea95f11-9604-4ab8-b40c-991dae819881.jpg" width="49%" />
 </p>
