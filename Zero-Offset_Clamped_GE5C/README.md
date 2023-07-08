@@ -1,10 +1,10 @@
 ![](Images/NotSoCreativeIMG.png)  
 Zero offset GE5C/EGLM-05 Mod for your v2.4.  
-I did my best to optimize it so even non perfect tuned printers should get it working which was a problem on my previous versions.  
+I did my best to optimize it, so even non-perfectly tuned printers should get it working, which was a problem with my previous versions.  
 
 ## Why choose this mod?  
-- Unlike Hartk's Ge5C Mod. This has no offset mounting to the A/B drives or front idlers meaning its a direct replacement to stock ( even though you can make Hartk's version fit on stock v2.4)
-- No possiblity of the bearing sliding around, its locked rigidly in place with adjustability in case  the plastic creeps over time
+- Unlike Hartk's Ge5C Mod, this has no offset mounting to the A/B drives or front idlers, meaning it's a direct replacement for stock. ( You can make Hartk's version fit on stock its just not optimal. )  
+- No possibility of the bearing sliding around; it's locked rigidly in place with adjustability in case the plastic creeps over time.
 - Looks cool :)  
 
 ## BOM:  
@@ -20,7 +20,7 @@ I did my best to optimize it so even non perfect tuned printers should get it wo
 (Optional) 4x 5mm ID 8mm OD 4mm tall Aluminum spacers instead of printed. I bought mine here https://www.aliexpress.com/item/1005003018758421.html
 
 # Instructions
-For now, use the pictures below. Also tighten the Ge5c clamping screws untill everything is tight, it shouldn't be bottomed out.  
+For now, use the pictures below. Also, tighten the Ge5C clamping screws until everything is tight; they shouldn't be bottomed out.  
 If you use EGLM-05 you can feel if you have tightened it too much because it starts to bind.  
 
 
