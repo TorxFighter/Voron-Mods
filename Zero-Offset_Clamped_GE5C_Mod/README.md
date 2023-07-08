@@ -22,6 +22,9 @@ I did my best to optimize it so even non perfect tuned printers should get it wo
 # Instructions
 For now, use the pictures below. Also tighten the Ge5c clamping screws untill everything is tight, it shouldn't be bottomed out.  
 If you use EGLM-05 you can feel if you have tightened it too much because it starts to bind.  
+
+
+Thank you NyxCode, jovdvyver, NotSoCreative and ReXT3D for Early testing and feedback!.
 <p float="left">
   <img src="https://github.com/TorxFighter/Voron-Mods/assets/58269052/e9b537e6-c038-431b-886f-ccd1ea9e8e4a" width="49%" />
   <img src="https://github.com/TorxFighter/Voron-Mods/assets/58269052/6252fbee-5b82-464d-9237-96e4dc4485ad" width="49%" />
