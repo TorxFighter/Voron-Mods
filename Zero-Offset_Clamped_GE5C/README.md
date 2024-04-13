@@ -19,6 +19,8 @@ I did my best to optimize it, so even non-perfectly tuned printers should get it
 8x M3 Hex nut  
 (Optional) 4x 5mm ID 8mm OD 4mm tall Aluminum spacers instead of printed. I bought mine here https://www.aliexpress.com/item/1005003018758421.html
 
+### Kit available at: https://central3dprinting.com/products/zero-offset-ge5c-for-2-4
+
 # Instructions
 For now, use the pictures below. Also, tighten the Ge5C clamping screws until everything is tight; they shouldn't be bottomed out.  
 If you use EGLM-05 you can feel if you have tightened it too much because it starts to bind.  
